@@ -1,0 +1,313 @@
+category,title,url,chars,lines,code_blocks,tables,has_code,has_tables,scraped_at,doc_id,content_preview
+AI Factory,Дообучение готовой модели из Huggingface,https://cloud.ru/docs/tutorials-evolution/list/topics/ml-finetuning__finetune-example?source-platform=Evolution,2500,93,0,0,False,False,2025-12-16 21:40:12.832605,doc_0000,"Дообучение готовой модели из Huggingface
+С помощью этого руководства вы запустите процесс дообучения модели
+mistralai/Ministral-8B-Instruct-2410
+Вы будете использовать следующие сервисы:
+Secret Manage..."
+AI Factory,Подключение корпоративной AI чат-платформы LibreChat к Foundation Models,https://cloud.ru/docs/tutorials-evolution/list/topics/foundation-models__connect-librechat?source-platform=Evolution,8107,233,22,0,True,False,2025-12-16 21:40:15.656988,doc_0001,"Подключение корпоративной AI чат-платформы LibreChat к Foundation Models
+С помощью этого руководства вы развернете чат-платформу LibreChat на бесплатной виртуальной машине в облаке Cloud.ru Evolution...."
+AI Factory,Создание бота для суммаризации чатов и каналов в Telegram на LangChain и Foundation Models,https://cloud.ru/docs/tutorials-evolution/list/topics/foundation-models__langchain-tg-bot?source-platform=Evolution,8309,245,10,0,True,False,2025-12-16 21:40:18.228299,doc_0002,"Создание бота для суммаризации чатов и каналов в Telegram на LangChain и Foundation Models
+С помощью этого руководства вы познакомитесь с проектом
+evo-foundation-models-tg-bot-lab
+— Telegram-ботом, ко..."
+AI Factory,Создание приложения с Aider и Foundation Models,https://cloud.ru/docs/tutorials-evolution/list/topics/foundation-models__assistent-aider?source-platform=Evolution,3647,84,6,0,True,False,2025-12-16 21:40:20.649209,doc_0003,"Создание приложения с Aider и Foundation Models
+С помощью этого руководства вы интегрируете сервис Foundation Models с приложением Aider, чтобы превратить Терминал в ИИ-ассистента.
+Вы создадите полноц..."
+Notebooks,Анализ обучения с TensorBoard PyTorch Profiler на основе Notebooks,https://cloud.ru/docs/tutorials-evolution/list/topics/notebooks__training-tensorboard?source-platform=Evolution,10836,245,12,0,True,False,2025-12-16 21:40:23.719047,doc_0004,"Анализ обучения с TensorBoard PyTorch Profiler на основе Notebooks
+С помощью этого руководства вы научитесь использовать TensorBoard с PyTorch Profiler для выявления узких мест производительности моде..."
+Notebooks,Генерация видео с моделью Kandinsky 5.0 Video Lite в ComfyUI на основе Notebooks,https://cloud.ru/docs/tutorials-evolution/list/topics/notebooks__comfyui-kandinsky?source-platform=Evolution,4643,112,3,0,True,False,2025-12-16 21:40:25.980271,doc_0005,"Генерация видео с моделью Kandinsky 5.0 Video Lite в ComfyUI на основе Notebooks
+С помощью этого руководства вы настроите среду для генерации видео в ComfyUI с использованием модели Kandinsky 5.0 Vide..."
+Notebooks,Генерация изображений с ComfyUI на основе Notebooks,https://cloud.ru/docs/tutorials-evolution/list/topics/notebooks__images-comfyui?source-platform=Evolution,3207,86,5,0,True,False,2025-12-16 21:40:28.183933,doc_0006,"Генерация изображений с ComfyUI на основе Notebooks
+С помощью этого руководства вы научитесь настраивать среду для генерации изображений с помощью ComfyUI, загружать модели с платформы Hugging Face и ..."
+Notebooks,Инференс изображений на предобученой модели на основе Notebooks,https://cloud.ru/docs/tutorials-evolution/list/topics/notebooks__cv-pretrain?source-platform=Evolution,3822,61,9,0,True,False,2025-12-16 21:40:30.640800,doc_0007,"Инференс изображений на предобученой модели на основе Notebooks
+С помощью этого руководства вы проведете классификацию изображений с использованием предобученной модели ResNet18.
+Вы создадите среду дл..."
+Notebooks,"Инференс на собственных изображениях с использованием модели CNN, обученной на MNIST, на основе Notebooks",https://cloud.ru/docs/tutorials-evolution/list/topics/notebooks__cv-cnn?source-platform=Evolution,5501,84,15,0,True,False,2025-12-16 21:40:33.727754,doc_0008,"Инференс на собственных изображениях с использованием модели CNN, обученной на MNIST, на основе Notebooks
+С помощью этого руководства вы выполните инференс на собственных изображениях с использованием..."
+Notebooks,Создание Telegram-бота для поиска информации из Jira на основе Notebooks,https://cloud.ru/docs/tutorials-evolution/list/topics/notebooks__low-code-rag?source-platform=Evolution,6193,178,2,0,True,False,2025-12-16 21:40:36.041232,doc_0009,"Создание Telegram-бота для поиска информации из Jira на основе Notebooks
+С помощью этого руководства вы настроите парсинг Jira, создадите базу знаний в сервисе
+Managed RAG
+и разработаете Telegram-бота..."
+Базы данных,Использование Managed Redis® как брокера сообщений,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-redis__queue-broker?source-platform=Evolution,4518,144,15,0,True,False,2025-12-16 21:40:38.396749,doc_0010,"Использование Managed Redis® как брокера сообщений
+С помощью этого руководства вы сконфигурируете Managed Redis® как брокер сообщений, связав его с сервисами publisher и subscriber, работающими на вир..."
+Базы данных,Миграция PostgreSQL с помощью Trino,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-trino__migration-postgresql?source-platform=Evolution,3608,142,9,0,True,False,2025-12-16 21:40:41.012173,doc_0011,"Миграция PostgreSQL с помощью Trino
+С помощью этого руководства вы выполните миграцию таблиц между двумя источниками PostgreSQL с помощью Trino.
+Постановка задачи
+Создать таблицу-источник и целевую та..."
+Базы данных,Оптимизация производительности Web-приложения с Managed Redis®,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-redis__web-performance?source-platform=Evolution,6298,140,19,0,True,False,2025-12-16 21:40:44.348329,doc_0012,"Оптимизация производительности Web-приложения с Managed Redis®
+С помощью этого руководства вы оптимизируете производительность Web-приложения с использованием сервиса Managed Redis®.
+Вы создадите и на..."
+Базы данных,Подключение Trino к PostgreSQL®,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-trino__trino-postgres?source-platform=Evolution,4747,202,8,0,True,False,2025-12-16 21:40:46.862040,doc_0013,"Подключение Trino к PostgreSQL®
+С помощью этого руководства вы выполните:
+подключение инстанса Managed Trino к
+PostgreSQL®
+отправку запроса через популярный JDBC-клиент DBeaver;
+создание, заполнение т..."
+Базы данных,Построение графика с PostgreSQL,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-bi__superset-postgresql?source-platform=Evolution,7038,277,1,0,True,False,2025-12-16 21:40:49.290409,doc_0014,"Построение графика с PostgreSQL
+С помощью этого руководства вы научитесь использовать платформу Superset для создания графиков на основе данных из
+Managed PostgreSQL
+В качестве примера вы построите дв..."
+Базы данных,Развертывание PostgreSQL на сервере Bare Metal,https://cloud.ru/docs/tutorials-evolution/list/topics/bare-metal__postgre_deploy?source-platform=Evolution,2995,61,7,0,True,False,2025-12-16 21:40:51.521865,doc_0015,"Развертывание PostgreSQL на сервере Bare Metal
+С помощью этого руководства вы развернете СУБД PostgreSQL 15 на сервере Bare Metal с ОС Ubuntu 22.04.
+Разверните инфраструктуру
+Установите и настройте Po..."
+Базы данных,Резервное копирование и восстановление базы данных,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-postgresql__pg_dump?source-platform=Evolution,2287,78,2,0,True,False,2025-12-16 21:40:53.934480,doc_0016,"Резервное копирование и восстановление базы данных
+С помощью этого руководства вы создадите
+базы данных PostgreSQL® через pg_dump, а затем восстановите базу с помощью pg_restore.
+Восстановить данные м..."
+Базы данных,Создание базы знаний из JSON-файла,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-rag__json-files?source-platform=Evolution,2297,76,2,0,True,False,2025-12-16 21:40:56.285835,doc_0017,"Создание базы знаний из JSON-файла
+В руководстве описан сценарий создания базы знаний с ручной настройкой экстрактора для конкретного JSON-файла.
+Общий алгоритм описан в
+инструкции по созданию базы зн..."
+Базы данных,Создание базы знаний из md-файлов,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-rag__md-files?source-platform=Evolution,4067,101,2,0,True,False,2025-12-16 21:40:58.523571,doc_0018,"Создание базы знаний из md-файлов
+В руководстве описан сценарий создания базы знаний на основе markdown-файлов, чтобы продемонстрировать, как дополнительная информация из внешних источников улучшает к..."
+Брокеры сообщений,Kafbat UI для менеджмента и мониторинга кластера Managed Kafka®,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kafka__kafka-ui?source-platform=Evolution,6932,202,14,0,True,False,2025-12-16 21:41:00.953379,doc_0019,"Kafbat UI для менеджмента и мониторинга кластера Managed Kafka®
+С помощью этого руководства вы развернете сервис Kafbat UI на виртуальной машине Ubuntu 22.04, создадите Managed Kafka® и свяжете Kafka ..."
+Брокеры сообщений,Использование Managed Kafka® для фоновой обработки задач,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kafka__background-tasks?source-platform=Evolution,5097,153,16,0,True,False,2025-12-16 21:41:03.430450,doc_0020,"Использование Managed Kafka® для фоновой обработки задач
+С помощью этого руководства вы сконфигурируете Managed Kafka® как брокер сообщений, связав его с сервисами publisher и subscriber, работающими ..."
+Инфраструктура,No-code автоматизация рассылки курса валют в Telegram с помощью n8n,https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__currency-n8n-tg-bot?source-platform=Evolution,7934,241,14,1,True,True,2025-12-16 21:41:05.763551,doc_0021,"No-code автоматизация рассылки курса валют в Telegram с помощью n8n
+С помощью этого руководства вы научитесь разворачивать no-code платформу n8n на виртуальной машине, настраивать процессы автоматизац..."
+Инфраструктура,Запуск Kandinsky 5.0 Video Lite на GPU NVIDIA A100,https://cloud.ru/docs/tutorials-evolution/list/topics/vm__kandinsky?source-platform=Evolution,9219,288,31,1,True,True,2025-12-16 21:41:08.314974,doc_0022,"Запуск Kandinsky 5.0 Video Lite на GPU NVIDIA A100
+С помощью этого руководства вы развернете ComfyUI с поддержкой модели Kandinsky 5.0 Video Lite на виртуальной машине с GPU NVIDIA A100 в облаке Cloud..."
+Инфраструктура,Запуск Telegram-бота на Python на виртуальной машине,https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__tg-bot-python?source-platform=Evolution,4823,128,9,0,True,False,2025-12-16 21:41:10.599031,doc_0023,"Запуск Telegram-бота на Python на виртуальной машине
+С помощью этого руководства вы запустите Telegram-бота на Python на виртуальной машине.
+Вы будете использовать следующие сервисы:
+Виртуальная машин..."
+Инфраструктура,Запуск контейнеризированного приложения на виртуальной машине с помощью Docker и Docker Compose,https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__docker?source-platform=Evolution,4683,137,14,0,True,False,2025-12-16 21:41:13.013050,doc_0024,"Запуск контейнеризированного приложения на виртуальной машине с помощью Docker и Docker Compose
+С помощью этого руководства вы соберете контейнерное приложение и запустите его на виртуальной машине.
+В..."
+Инфраструктура,Запуск личного блога на WordPress на виртуальной машине,https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__blog-wordpress?source-platform=Evolution,4929,134,9,1,True,True,2025-12-16 21:41:15.238339,doc_0025,"Запуск личного блога на WordPress на виртуальной машине
+С помощью этого руководства вы научитесь разворачивать личный блог на WordPress на виртуальной машине в облаке Cloud.ru.
+В результате вы получит..."
+Инфраструктура,Запуск приложения на виртуальной машине в качестве службы,https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__app-as-a-service?source-platform=Evolution,6693,182,29,0,True,False,2025-12-16 21:41:17.848852,doc_0026,"Запуск приложения на виртуальной машине в качестве службы
+С помощью этого руководства вы развернете сервис для автоматического создания резервных копий выбранной директории на  виртуальной машине.
+Вы ..."
+Инфраструктура,Настройка site-to-site VPN с помощью strongSwan,https://cloud.ru/docs/tutorials-evolution/list/topics/vm__site-to-site-vpn?source-platform=Evolution,15610,592,26,3,True,True,2025-12-16 21:41:20.407903,doc_0027,"Настройка site-to-site VPN с помощью strongSwan
+С помощью этого руководства вы настроите сетевую связность между инфраструктурой в облаке Cloud.ru Evolution и некоторой удаленной стороной.
+На практике..."
+Инфраструктура,Настройка взаимодействия приложения на виртуальных машинах с сервисом Managed PostgreSQL®,https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__postgresql-connection?source-platform=Evolution,7969,236,24,0,True,False,2025-12-16 21:41:23.071281,doc_0028,"Настройка взаимодействия приложения на виртуальных машинах с сервисом Managed PostgreSQL®
+С помощью этого руководства вы развернете сервис сокращенных ссылок и настроите защищенную схему взаимодействи..."
+Инфраструктура,Настройка виртуальной машины в качестве маршрутизатора,https://cloud.ru/docs/tutorials-evolution/list/topics/vm__vm-router?source-platform=Evolution,4825,156,10,0,True,False,2025-12-16 21:41:25.513631,doc_0029,"Настройка виртуальной машины в качестве маршрутизатора
+С помощью этого руководства вы настроите виртуальную машину в качестве маршрутизатора и с ее помощью организуете доступ в интернет для других маш..."
+Инфраструктура,Организация CI/CD и мониторинга приложения,https://cloud.ru/docs/tutorials-evolution/list/topics/vm__gitverse-grafana-prometheus?source-platform=Evolution,14045,432,36,2,True,True,2025-12-16 21:41:28.072748,doc_0030,"Организация CI/CD и мониторинга приложения
+С помощью этого руководства вы научитесь настраивать полный цикл непрерывной интеграции и доставки (CI/CD) для веб-приложения на Python Flask, а также
+развер..."
+Инфраструктура,Организация хранения файлов через Nextcloud с доступом через веб-интерфейс и мобильное приложение,https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__nextcloud?source-platform=Evolution,6321,188,9,1,True,True,2025-12-16 21:41:30.338526,doc_0031,"Организация хранения файлов через Nextcloud с доступом через веб-интерфейс и мобильное приложение
+С помощью этого руководства вы развернете решение для работы с личными файлами на основе продукта
+Next..."
+Инфраструктура,Передача аудит-логов с виртуальной машины с помощью Fluent Bit,https://cloud.ru/docs/tutorials-evolution/list/topics/monitoring-and-logging__audit-logging__fluent-bit?source-platform=Evolution,6957,215,23,0,True,False,2025-12-16 21:41:33.113260,doc_0032,"Передача аудит-логов с виртуальной машины с помощью Fluent Bit
+Примечание
+Отправка аудит-логов в сервис находится на стадии
+Preview
+Чтобы получить возможность отправлять аудит-логи, обратитесь в
+техни..."
+Инфраструктура,Передача логов с виртуальной машины с помощью Docker-контейнера плагина Fluent Bit,https://cloud.ru/docs/tutorials-evolution/list/topics/monitoring-and-logging__client-log__docker-fluent-bit?source-platform=Evolution,6399,196,38,0,True,False,2025-12-16 21:41:36.311134,doc_0033,"Передача логов с виртуальной машины с помощью Docker-контейнера плагина Fluent Bit
+Передача логов в сервис «Клиентское логирование» с помощью Docker-контейнера доступна для разных операционных систем...."
+Инфраструктура,Передача логов с виртуальной машины с помощью Fluent Bit logaas plugin,https://cloud.ru/docs/tutorials-evolution/list/topics/monitoring-and-logging__client-log__fluent-bit-logaas-plugin?source-platform=Evolution,6254,188,23,0,True,False,2025-12-16 21:41:39.069992,doc_0034,"Передача логов с виртуальной машины с помощью Fluent Bit logaas plugin
+Fluent Bit — кроссплатформенный инструмент с открытым исходным кодом.
+Он собирает, обрабатывает и фильтрует лог-сообщения из разн..."
+Инфраструктура,Передача логов с виртуальной машины с помощью Fluent Bit и Lua-скрипта,https://cloud.ru/docs/tutorials-evolution/list/topics/monitoring-and-logging__client-log__fluent-bit-lua-script?source-platform=Evolution,6368,194,22,0,True,False,2025-12-16 21:41:42.209236,doc_0035,"Передача логов с виртуальной машины с помощью Fluent Bit и Lua-скрипта
+Fluent Bit — кроссплатформенный инструмент с открытым исходным кодом.
+Он собирает, обрабатывает и фильтрует лог-сообщения из разн..."
+Инфраструктура,Подключение MCP-сервера Managed RAG к Chatbox,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-rag__connect-mcp-chatbox?source-platform=Evolution,3804,122,4,0,True,False,2025-12-16 21:41:44.392615,doc_0036,"Подключение MCP-сервера Managed RAG к Chatbox
+С помощью этого руководства вы подключите MCP-сервер к базе знаний, чтобы использовать AI-агента с инструментом поиска по базе знаний в интерфейсе Chatbox..."
+Инфраструктура,Подключение к Managed ArenadataDB через ВМ по локальной сети,https://cloud.ru/docs/tutorials-evolution/list/topics/arenadata-db__vm-local-ip?source-platform=Evolution,3703,129,1,0,True,False,2025-12-16 21:41:46.576139,doc_0037,"Подключение к Managed ArenadataDB через ВМ по локальной сети
+С помощью этого руководства вы развернете инстанс Managed ArenadataDB, создадите виртуальную машину (ВМ), подключите ВМ к Managed Arenadata..."
+Инфраструктура,Развертывание 1С на сервере Bare Metal,https://cloud.ru/docs/tutorials-evolution/list/topics/bare-metal__1c_deploy?source-platform=Evolution,2003,70,18,0,True,False,2025-12-16 21:41:49.001214,doc_0038,"Развертывание 1С на сервере Bare Metal
+С помощью этого руководства вы развернете и настроите программу «1С: Предприятие» на сервере Bare Metal с ОС Ubuntu 22.04.
+Для управления базой данных используем..."
+Инфраструктура,Развертывание CRM-сервиса Twenty на виртуальной машине,https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__twenty-crm?source-platform=Evolution,8396,251,21,0,True,False,2025-12-16 21:41:51.611215,doc_0039,"Развертывание CRM-сервиса Twenty на виртуальной машине
+В этой лабораторной работе вы развернете CRM‑сервис Twenty на бесплатной виртуальной машине в облаке Cloud.ru Evolution.
+Вы создадите инфраструкт..."
+Инфраструктура,Развертывание Gitlab на виртуальной машине,https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__gitlab?source-platform=Evolution,1968,75,5,0,True,False,2025-12-16 21:41:53.797554,doc_0040,"Развертывание Gitlab на виртуальной машине
+С помощью этого руководства вы запустите
+с Gitlab — систему для управления исходным кодом.
+Вы будете использовать следующие сервисы:
+Виртуальная машина free ..."
+Инфраструктура,Развертывание Identity Provider Keycloak на виртуальной машине и Managed PostgreSQL®,https://cloud.ru/docs/tutorials-evolution/list/topics/vm__postgresql-keycloak?source-platform=Evolution,6798,215,17,1,True,True,2025-12-16 21:41:56.124235,doc_0041,"Развертывание Identity Provider Keycloak на виртуальной машине и Managed PostgreSQL®
+С помощью этого руководства вы развернете Identity Provider Keycloak в облаке для централизованной аутентификации п..."
+Инфраструктура,Развертывание K3s на сервере Bare Metal,https://cloud.ru/docs/tutorials-evolution/list/topics/bare-metal__k3s?source-platform=Evolution,1579,50,10,0,True,False,2025-12-16 21:41:58.502436,doc_0042,"Развертывание K3s на сервере Bare Metal
+С помощью этого руководства вы развернете сервер Bare Metal с K3s — упрощенной версией Kubernetes для сред с ограниченными ресурсами.
+Решение сохраняет все возм..."
+Инфраструктура,Развертывание LLM на сервере Bare Metal,https://cloud.ru/docs/tutorials-evolution/list/topics/bare-metal__llm_deploy?source-platform=Evolution,2474,85,9,0,True,False,2025-12-16 21:42:01.539342,doc_0043,"Развертывание LLM на сервере Bare Metal
+С помощью этого руководства вы развернете большую языковую моделей (LLM) deepseek-r1:32b на сервере Bare Metal и настроите общение с ней из терминала.
+Для этого..."
+Инфраструктура,Развертывание Wiki-сервиса Outline на виртуальной машине,https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__outline?source-platform=Evolution,10004,286,23,0,True,False,2025-12-16 21:42:04.557888,doc_0044,"Развертывание Wiki-сервиса Outline на виртуальной машине
+С помощью этого руководства вы развернете Wiki-сервис для командной работы на бесплатной виртуальной машине.
+Вы создадите виртуальную машину Ub..."
+Инфраструктура,Развертывание личного менеджера паролей на базе PassBolt на виртуальной машине,https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__passbolt?source-platform=Evolution,6137,159,4,0,True,False,2025-12-16 21:42:06.798359,doc_0045,"Развертывание личного менеджера паролей на базе PassBolt на виртуальной машине
+С помощью этого руководства вы развернете менеджер паролей на базе Passbolt на виртуальной машине.
+Вы будете использовать..."
+Инфраструктура,Развертывание отказоустойчивого веб-приложения с разделением компонентов во фреймворке Docker Swarm,https://cloud.ru/docs/tutorials-evolution/list/topics/vm__docker-swarm?source-platform=Evolution,10988,307,31,1,True,True,2025-12-16 21:42:09.703716,doc_0046,"Развертывание отказоустойчивого веб-приложения с разделением компонентов во фреймворке Docker Swarm
+С помощью этого руководства вы научитесь разворачивать в кластере Docker Swarm микросервисное веб-пр..."
+Инфраструктура,Развертывание почтового сервера Exim на виртуальной машине,https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__mail-server?source-platform=Evolution,1916,75,5,0,True,False,2025-12-16 21:42:11.898892,doc_0047,"Развертывание почтового сервера Exim на виртуальной машине
+С помощью этого руководства вы запустите собственный почтовый сервер на базе решения Exim.
+Вы будете использовать следующие сервисы:
+Виртуаль..."
+Инфраструктура,Развертывание сайта с использованием LEMP,https://cloud.ru/docs/tutorials-evolution/list/topics/vm__site-on-lemp?source-platform=Evolution,4464,148,15,1,True,True,2025-12-16 21:42:14.306050,doc_0048,"Развертывание сайта с использованием LEMP
+С помощью этого руководства вы создадите простой сайт с использованием стека
+Вы будете использовать следующие сервисы:
+Виртуальные машины
+— сервис, в рамках к..."
+Инфраструктура,Развертывание сервера Minecraft на виртуальной машине,https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__minecraft?source-platform=Evolution,4827,133,10,0,True,False,2025-12-16 21:42:16.731053,doc_0049,"Развертывание сервера Minecraft на виртуальной машине
+С помощью этого руководства вы развернете сервер Minecraft (Java Edition) актуальной версии на виртуальной машине.
+Вы будете использовать следующи..."
+Инфраструктура,Развертывание сервиса видеоконференций Jitsi на виртуальной машине,https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__jitsi-video-conferences?source-platform=Evolution,6631,188,24,1,True,True,2025-12-16 21:42:19.217230,doc_0050,"Развертывание сервиса видеоконференций Jitsi на виртуальной машине
+С помощью этого руководства вы развернете сервис видеоконференций Jitsi на бесплатной виртуальной машине в облаке Cloud.ru Evolution...."
+Инфраструктура,Развертывание сервиса статического мониторинга кода и безопасности SonarQube,https://cloud.ru/docs/tutorials-evolution/list/topics/vm__postgresql-sonarqube?source-platform=Evolution,12898,365,19,2,True,True,2025-12-16 21:42:21.893804,doc_0051,"Развертывание сервиса статического мониторинга кода и безопасности SonarQube
+С помощью этого руководства вы развернете платформу статического анализа кода SonarQube в облаке Cloud.ru для автоматическо..."
+Инфраструктура,Развертывание системы умного дома с использованием Node-RED и Mosquitto,https://cloud.ru/docs/tutorials-evolution/list/topics/vm__smarthome?source-platform=Evolution,7180,215,15,1,True,True,2025-12-16 21:42:24.279114,doc_0052,"Развертывание системы умного дома с использованием Node-RED и Mosquitto
+С помощью этого руководства вы научитесь основам IoT-автоматизации и выполните проект по управлению температурой в умном доме.
+В..."
+Инфраструктура,Разработка высоконагруженного приложения на сервере Bare Metal,https://cloud.ru/docs/tutorials-evolution/list/topics/bare-metal__highload_app?source-platform=Evolution,4005,105,16,0,True,False,2025-12-16 21:42:26.580512,doc_0053,"Разработка высоконагруженного приложения на сервере Bare Metal
+С помощью этого руководства вы развернете среду для разработки высоконагруженных приложений.
+В отличие от виртуальных сред или локальных ..."
+Инфраструктура,Решение задач с помощью квантового симулятора,https://cloud.ru/docs/tutorials-evolution/list/topics/vm__quantum-simulator?source-platform=Evolution,5444,163,11,1,True,True,2025-12-16 21:42:29.485512,doc_0054,"Решение задач с помощью квантового симулятора
+С помощью этого руководства вы научитесь решать задачу с применением алгоритма имитации отжига, получите результаты решений и интерпретируете их.
+Для реше..."
+Инфраструктура,Создание AI-агента с MCP-сервером Managed RAG,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-rag__create-agent?source-platform=Evolution,3600,137,1,0,True,False,2025-12-16 21:42:31.783756,doc_0055,"Создание AI-агента с MCP-сервером Managed RAG
+С помощью этого руководства вы сформируете базу знаний в Managed RAG, запустите MCP‑сервер и создадите AI‑агента, способного отвечать на запросы, использу..."
+Инфраструктура,Установка Onlyoffice Community на выделенный сервер Bare Metal,https://cloud.ru/docs/tutorials-evolution/list/topics/bare-metal__onlyoffice?source-platform=Evolution,2099,67,7,0,True,False,2025-12-16 21:42:34.589344,doc_0056,"Установка Onlyoffice Community на выделенный сервер Bare Metal
+С помощью этого руководства вы развернете экосистему приложений для совместной работы Onlyoffice.
+Доступ к приложениям обеспечивается чер..."
+Контейнеры,Event-driven масштабирование в Managed Kubernetes с помощью KEDA,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__keda-scaling?source-platform=Evolution,7410,166,16,0,True,False,2025-12-16 21:42:37.244693,doc_0057,"Event-driven масштабирование в Managed Kubernetes с помощью KEDA
+С помощью этого руководства вы развернете инфраструктуру Managed Kubernetes и установите решение KEDA для event-driven автомасштабирова..."
+Контейнеры,Автоматическое масштабирование nginx с FederatedHPA и нагрузочное тестирование с k6,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__karmada-fhpa?source-platform=Evolution,6165,119,16,0,True,False,2025-12-16 21:42:39.831487,doc_0058,"Автоматическое масштабирование nginx с FederatedHPA и нагрузочное тестирование с k6
+С помощью этого руководства вы реализуете автоматическое горизонтальное масштабирование приложения nginx в мультикла..."
+Контейнеры,Вайб-кодинг с помощью Foundation Models и подключение MCP-сервера для деплоя приложения в Container Apps,https://cloud.ru/docs/tutorials-evolution/list/topics/container-apps__vibecode-django-photo-app-mcp-server?source-platform=Evolution,15097,300,21,0,True,False,2025-12-16 21:42:42.721672,doc_0059,"Вайб-кодинг с помощью Foundation Models и подключение MCP-сервера для деплоя приложения в Container Apps
+С помощью этого руководства вы научитесь:
+вайб-кодить бэкенд-приложение на Python (фреймворк Dj..."
+Контейнеры,Запуск Telegram-бота на Python в контейнере,https://cloud.ru/docs/tutorials-evolution/list/topics/container-apps__telegram-bot?source-platform=Evolution,4012,112,6,0,True,False,2025-12-16 21:42:44.934761,doc_0060,"Запуск Telegram-бота на Python в контейнере
+С помощью этого руководства вы запустите Telegram-бота на Python в контейнере.
+Вы будете использовать следующие сервисы:
+Artifact Registry
+для хранения, сов..."
+Контейнеры,Запуск контейнерного приложения в кластере Managed Kubernetes,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__deployment-app?source-platform=Evolution,5748,158,9,0,True,False,2025-12-16 21:42:47.187093,doc_0061,"Запуск контейнерного приложения в кластере Managed Kubernetes
+С помощью этого руководства вы соберете и загрузите демонстрационный образ контейнерного приложения в Artifact Registry, создадите кластер..."
+Контейнеры,Настройка Time-Slicing GPU,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__time-slicing?source-platform=Evolution,2935,90,17,0,True,False,2025-12-16 21:42:49.598542,doc_0062,"Настройка Time-Slicing GPU
+NVIDIA GPU Operator поддерживает возможность настройки Time-Slicing — механизма виртуального разделения одной физической GPU между несколькими подами на уровне рабочего узла..."
+Контейнеры,Настройка автомасштабирования группы узлов,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__automatic-scaling?source-platform=Evolution,2001,56,8,0,True,False,2025-12-16 21:42:52.095712,doc_0063,"Настройка автомасштабирования группы узлов
+В сценарии рассмотрим, как настраивать и управлять автомасштабированием через API:
+Создадим группу узлов
+с поддержкой автомасштабирования
+Отредактируем миним..."
+Контейнеры,"Настройка пайплайна CI/CD в GitHub, GitLab и GitVerse с использованием Artifact Registry",https://cloud.ru/docs/tutorials-evolution/list/topics/container-apps__ci-cd?source-platform=Evolution,4834,102,0,0,False,False,2025-12-16 21:42:54.596977,doc_0064,"Настройка пайплайна CI/CD в GitHub, GitLab и GitVerse с использованием Artifact Registry
+С помощью этого руководства вы научитесь создавать процесс автоматической сборки и публикации Docker-образа из ..."
+Контейнеры,Передача логов с кластера Managed Kubernetes,https://cloud.ru/docs/tutorials-evolution/list/topics/monitoring-and-logging__client-log__kubernetes?source-platform=Evolution,6612,160,12,1,True,True,2025-12-16 21:42:57.267973,doc_0065,"Передача логов с кластера Managed Kubernetes
+С помощью инструкции подготовим и настроим передачу логов с кластера Managed Kubernetes в сервис «Клиентское логирование».
+Перед началом работы
+Создайте и ..."
+Контейнеры,Подготовка среды для Artifact Registry и Container Apps,https://cloud.ru/docs/tutorials-evolution/list/topics/container-apps__before-work?source-platform=Evolution,1867,50,1,0,True,False,2025-12-16 21:42:59.410105,doc_0066,"Подготовка среды для Artifact Registry и Container Apps
+Перед началом работы с практическими руководствами по Artifact Registry и Container Apps:
+Зарегистрируйтесь в личном кабинете Cloud.ru
+После рег..."
+Контейнеры,Подключение Managed Redis® к сервисам в кластере Managed Kubernetes,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__redis-user-sessions?source-platform=Evolution,5752,158,11,0,True,False,2025-12-16 21:43:01.712671,doc_0067,"Подключение Managed Redis® к сервисам в кластере Managed Kubernetes
+С помощью этого руководства вы сконфигурируете Managed Redis® для хранения пользовательских сессий в сервисе, работающем в кластере ..."
+Контейнеры,Подключение ИИ из Foundation Models к nocode Telegram-боту на основе Container Apps или Notebooks,https://cloud.ru/docs/tutorials-evolution/list/topics/container-apps__telegram-bot-connection?source-platform=Evolution,5218,159,4,0,True,False,2025-12-16 21:43:03.905460,doc_0068,"Подключение ИИ из Foundation Models к nocode Telegram-боту на основе Container Apps или Notebooks
+С помощью этого руководства вы запустите приложение n8n в Container Apps или в Notebooks.
+На базе этог..."
+Контейнеры,Пример развертывания сайта,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__website?source-platform=Evolution,3186,111,12,0,True,False,2025-12-16 21:43:06.279101,doc_0069,"Пример развертывания сайта
+С помощью инструкции создадим образ с простым статическим сайтом.
+Затем загрузим образ в Artifact Registry и развернем сайт в кластере Managed Kubernetes.
+Перед началом рабо..."
+Контейнеры,Продвинутые методики развертывания приложений Blue-Green и Canary в управляемом кластере Managed Kubernetes,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__blue-green-and-canary-deployment?source-platform=Evolution,9812,279,46,0,True,False,2025-12-16 21:43:09.586246,doc_0070,"Продвинутые методики развертывания приложений Blue-Green и Canary в управляемом кластере Managed Kubernetes
+С помощью этого руководства вы научитесь работать с продвинутыми стратегиями развертывания к..."
+Контейнеры,Работа с секретами при публикации приложений в Managed Kubernetes,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__secret?source-platform=Evolution,5774,131,14,0,True,False,2025-12-16 21:43:11.958915,doc_0071,"Работа с секретами при публикации приложений в Managed Kubernetes
+Приложения, развернутые в кластерах Kubernetes, часто требуют подключения к базам данных или внешним сервисам.
+Однако чувствительные д..."
+Контейнеры,Развертывание Deployment с вертикальным масштабированием подов,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__vpa?source-platform=Evolution,2481,74,15,0,True,False,2025-12-16 21:43:14.277683,doc_0072,"Развертывание Deployment с вертикальным масштабированием подов
+В сценарии развернем Deployment с тремя подами, каждый из которых запускает контейнер с nginx.
+В Deployment укажем:
+запросы на лимиты — 5..."
+Контейнеры,Развертывание Deployment с горизонтальным масштабированием подов,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__hpa?source-platform=Evolution,3555,82,19,0,True,False,2025-12-16 21:43:16.660933,doc_0073,"Развертывание Deployment с горизонтальным масштабированием подов
+В сценарии развернем Deployment с Apache и PHP, а затем зададим условия изменения количества подов в зависимости от нагрузки на виртуал..."
+Контейнеры,Развертывание Jupyter Server в контейнере,https://cloud.ru/docs/tutorials-evolution/list/topics/container-apps__jupyter-server?source-platform=Evolution,3243,89,5,0,True,False,2025-12-16 21:43:18.845088,doc_0074,"Развертывание Jupyter Server в контейнере
+С помощью этого руководства вы научитесь разворачивать Jupyter Server в контейнере.
+На примере развертывания Jupyter Server вы познакомитесь с созданием конте..."
+Контейнеры,Развертывание backend-приложения в контейнере,https://cloud.ru/docs/tutorials-evolution/list/topics/container-apps__deploy-backend-app?source-platform=Evolution,4079,84,4,0,True,False,2025-12-16 21:43:21.140914,doc_0075,"Развертывание backend-приложения в контейнере
+С помощью этого руководства вы научитесь разворачивать backend-приложение в контейнере.
+Вы будете использовать репозиторий GitVerse с исходным кодом готов..."
+Контейнеры,Развертывание frontend-приложения в контейнере,https://cloud.ru/docs/tutorials-evolution/list/topics/container-apps__deploy-frontend-app?source-platform=Evolution,4036,89,4,0,True,False,2025-12-16 21:43:23.312016,doc_0076,"Развертывание frontend-приложения в контейнере
+С помощью этого руководства вы получите практический опыт использования облачных сервисов для запуска контейнерных приложений —
+Container Apps
+Artifact R..."
+Контейнеры,Развертывание nginx в кластерах-участниках Karmada,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__app-in-karmada?source-platform=Evolution,5256,92,14,0,True,False,2025-12-16 21:43:25.725897,doc_0077,"Развертывание nginx в кластерах-участниках Karmada
+С помощью этого руководства вы развернете приложение nginx в кластерах-участниках платформы Karmada с помощью политики распространения ресурсов.
+В ре..."
+Контейнеры,Развертывание кластера Managed Kubernetes с помощью Terraform,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__deploying-cluster-using-terraform?source-platform=Evolution,3291,90,10,0,True,False,2025-12-16 21:43:27.986050,doc_0078,"Развертывание кластера Managed Kubernetes с помощью Terraform
+С помощью этого руководства вы научитесь автоматически развертывать инфраструктуру в облаке
+Cloud.ru
+Evolution при помощи инструмента Terr..."
+Контейнеры,Развертывание мультикластера Managed Kubernetes с помощью Karmada,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__karmada-deployment?source-platform=Evolution,8976,201,22,0,True,False,2025-12-16 21:43:30.404853,doc_0079,"Развертывание мультикластера Managed Kubernetes с помощью Karmada
+С помощью этого руководства вы развернете мультикластерное окружение на базе Managed Kubernetes при помощи платформы Karmada.
+Вы научи..."
+Контейнеры,Создание Telegram-бота без написания кода с помощью n8n на основе Container Apps или Notebooks,https://cloud.ru/docs/tutorials-evolution/list/topics/container-apps__nocode-telegram-bot?source-platform=Evolution,8338,276,0,0,False,False,2025-12-16 21:43:32.809114,doc_0080,"Создание Telegram-бота без написания кода с помощью n8n на основе Container Apps или Notebooks
+С помощью этого руководства вы развернете платформу для создания рабочих процессов без написания кода и с..."
+Контейнеры,Создание django-приложения для раздачи фотографий,https://cloud.ru/docs/tutorials-evolution/list/topics/container-apps__deploy-django-photo-app?source-platform=Evolution,10020,249,7,0,True,False,2025-12-16 21:43:35.231159,doc_0081,"Создание django-приложения для раздачи фотографий
+С помощью этого руководства вы научитесь сохранять данные проекта, размещенного в Container Apps, с помощью Object Storage.
+Вы будете использовать реп..."
+Общее,Интеграция веб-интерфейса Open WebUI с Foundation Models,https://cloud.ru/docs/tutorials-evolution/list/topics/foundation-models__open-webui?source-platform=Evolution,7832,225,20,0,True,False,2025-12-16 21:43:37.538301,doc_0082,"Интеграция веб-интерфейса Open WebUI с Foundation Models
+С помощью этого руководства вы разверните веб-интерфейс Open WebUI на бесплатной виртуальной машине в облаке Cloud.ru Evolution.
+Создадите вирт..."
+Общее,Обработка данных из Object Storage,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-spark__spark-s3?source-platform=Evolution,4305,143,1,0,True,False,2025-12-16 21:43:39.993416,doc_0083,"Обработка данных из Object Storage
+С помощью этого руководства вы научитесь использовать сервис Managed Spark для обработки данных, хранящихся в
+Evolution Object Storage
+В качестве примера вы построит..."
+Общее,Подключение Foundation Models в VS Code,https://cloud.ru/docs/tutorials-evolution/list/topics/foundation-models__connect-vscode?source-platform=Evolution,3969,113,1,0,True,False,2025-12-16 21:43:42.151839,doc_0084,"Подключение Foundation Models в VS Code
+С помощью этого руководства вы подключите Foundation Models в VS Code через плагин Roo Code.
+Вы будете использовать следующие сервисы:
+Foundation Models
+— серви..."
+Общее,Подключение LLM-шлюза Litellm к Foundation Models,https://cloud.ru/docs/tutorials-evolution/list/topics/foundation-models__connect-litellm?source-platform=Evolution,9712,296,22,0,True,False,2025-12-16 21:43:44.772046,doc_0085,"Подключение LLM-шлюза Litellm к Foundation Models
+С помощью этого руководства вы развернете LLM-шлюз Litellm на бесплатной виртуальной машине в облаке Cloud.ru Evolution.
+Вы создадите виртуальную маши..."
+Общее,Подключение Managed ArenadataDB к Managed BI,https://cloud.ru/docs/tutorials-evolution/list/topics/arenadata-db__managed-bi?source-platform=Evolution,6106,260,0,0,False,False,2025-12-16 21:43:47.116074,doc_0086,"Подключение Managed ArenadataDB к Managed BI
+С помощью этого руководства вы научитесь загружать данные в Managed ArenadataDB через JDBC-клиент DBeaver и визуализировать их в Managed BI.
+Вы будете испо..."
+Общее,Подключение Trino к Iceberg,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-trino__trino-iceberg?source-platform=Evolution,5277,211,12,0,True,False,2025-12-16 21:43:49.711230,doc_0087,"Подключение Trino к Iceberg
+С помощью этого руководства вы подготовите инстанс Trino для работы с форматом данных Iceberg.
+Постановка задачи
+Создать и заполнить таблицу с данными сотрудников.
+Прочитат..."
+Общее,Подключение Trino к S3,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-trino__trino-s3?source-platform=Evolution,6426,266,16,0,True,False,2025-12-16 21:43:52.330516,doc_0088,"Подключение Trino к S3
+В этом руководстве мы рассмотрим:
+сценарий взаимодействия между Managed Trino,
+Managed Metastore
+Object Storage
+отправку запросов через DBeaver;
+работу с управляемыми таблицами;..."
+Общее,Работа с данными в Managed ArenadataDB,https://cloud.ru/docs/tutorials-evolution/list/topics/arenadata-db__dbeaver?source-platform=Evolution,3022,119,3,0,True,False,2025-12-16 21:43:54.533252,doc_0089,"Работа с данными в Managed ArenadataDB
+С помощью этого руководства вы подключите инстанс Managed ArenadataDB по внешнему IP к JDBC-клиенту DBeaver.
+Постановка задачи
+Развернуть инстанс с публичным IP...."
+Общее,Работа с пользовательским образом,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-spark__spark-image-artifact-registry?source-platform=Evolution,4933,156,3,0,True,False,2025-12-16 21:43:56.874135,doc_0090,"Работа с пользовательским образом
+С помощью этого руководства вы научитесь обрабатывать данные, применяя
+пользовательский образ
+Spark.
+Вы примените пользовательский образ, включающий библиотеки для ра..."
+Общее,Работа с таблицами Delta Lake,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-spark__spark-delta-lake?source-platform=Evolution,5340,169,1,1,True,True,2025-12-16 21:43:59.380755,doc_0091,"Работа с таблицами Delta Lake
+С помощью этого руководства вы научитесь использовать сервис Managed Spark для обработки таблиц формата
+Delta Lake
+Вы построите витрину данных, отражающую полную информац..."
+Общее,Работа с таблицами Iceberg,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-spark__spark-iceberg?source-platform=Evolution,5673,172,1,1,True,True,2025-12-16 21:44:01.693460,doc_0092,"Работа с таблицами Iceberg
+С помощью этого руководства вы научитесь использовать сервис Managed Spark для обработки таблиц формата Iceberg и преобразования их в таблицы Parquet.
+В качестве примера вы ..."
+Общее,Создание ассистентов и работа с документами в Chatbox на основе Foundation Models,https://cloud.ru/docs/tutorials-evolution/list/topics/foundation-models__connect-chatbox?source-platform=Evolution,4773,143,2,0,True,False,2025-12-16 21:44:03.890894,doc_0093,"Создание ассистентов и работа с документами в Chatbox на основе Foundation Models
+С помощью этого руководства вы получите практический опыт по созданию ассистента и работе с документами в приложении C..."
+Общее,Создание инференса для использования в Managed RAG,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-rag__create-inference?source-platform=Evolution,8587,344,0,0,False,False,2025-12-16 21:44:06.150384,doc_0094,"Создание инференса для использования в Managed RAG
+С помощью этого руководства вы последовательно создадите три типа инференса в ML Inference для использования их в базе знаний Managed RAG, затем пров..."
+Общее,Создать бэкап в Object Storage по расписанию в ADBC,https://cloud.ru/docs/tutorials-evolution/list/topics/arenadata-db__adbc-backup?source-platform=Evolution,3796,135,1,0,True,False,2025-12-16 21:44:08.337462,doc_0095,"Создать бэкап в Object Storage по расписанию в ADBC
+С помощью этого руководства вы настроите бэкапы по расписанию и восстановите исходные данные.
+Вы будете использовать следующие сервисы:
+Виртуальные ..."
+Общее,Чтение сообщений из топиков Managed Kafka®,https://cloud.ru/docs/tutorials-evolution/list/topics/managed-spark__spark-streaming?source-platform=Evolution,6072,158,2,1,True,True,2025-12-16 21:44:10.788464,doc_0096,"Чтение сообщений из топиков Managed Kafka®
+С помощью этого руководства вы настроите чтение сообщений из топика Managed Kafka® и отображение полученных данных в логах задачи Managed Spark.
+Вы создадите..."
+Сеть,Связывание ресурсов в разных VPC внутри проекта,https://cloud.ru/docs/tutorials-evolution/list/topics/magic-router__link-vpcs-in-project?source-platform=Evolution,5733,245,0,0,False,False,2025-12-16 21:44:13.226254,doc_0097,"Связывание ресурсов в разных VPC внутри проекта
+С помощью этого руководства вы настроите сетевую связность между виртуальными машинами из разных VPC, принадлежащих одному проекту.
+Вы будете использова..."
+Сеть,Связывание ресурсов разных VPC из разных проектов,https://cloud.ru/docs/tutorials-evolution/list/topics/magic-router__link-vpcs-in-two-projects?source-platform=Evolution,9349,376,0,0,False,False,2025-12-16 21:44:15.554999,doc_0098,"Связывание ресурсов разных VPC из разных проектов
+С помощью этого руководства вы создадите связность между виртуальными машинами из разных
+, принадлежащих разным
+проектам
+Вы будете использовать соедин..."

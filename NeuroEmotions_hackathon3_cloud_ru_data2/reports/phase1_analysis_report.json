@@ -1,0 +1,27 @@
+{
+  "phase": "Этап 2 - Анализ данных Этапа 1",
+  "timestamp": "2025-12-16T21:46:41.670036",
+  "source_file": "/content/drive/MyDrive/NeuroEmotions_hackathon3_cloud_ru_data2/rag_ready/NeuroEmotions_all_chunks_for_rag_1.6.json",
+  "total_chunks": 692,
+  "total_metadata": 692,
+  "categories_distribution": {
+    "AI Factory": 23,
+    "Notebooks": 31,
+    "Базы данных": 44,
+    "Брокеры сообщений": 17,
+    "Инфраструктура": 338,
+    "Контейнеры": 176,
+    "Общее": 61,
+    "Сеть": 2
+  },
+  "chunk_types_distribution": {
+    "text": 99,
+    "code": 593
+  },
+  "chunk_size_stats": {
+    "min": 279,
+    "max": 15609,
+    "mean": 1422.5520231213873,
+    "median": 502.0
+  }
+}

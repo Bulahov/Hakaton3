@@ -1,0 +1,133 @@
+{
+  "devops@skillup.com": {
+    "email": "devops@skillup.com",
+    "specialty": "devops",
+    "position_title": "DevOps Engineer",
+    "base_skills": [
+      "Kubernetes",
+      "Docker",
+      "CI/CD",
+      "Terraform"
+    ],
+    "personal_skills": [],
+    "progress": {
+      "Kubernetes": {
+        "percent": 100,
+        "questions_asked": 20,
+        "tests_passed": 0,
+        "last_activity": "2025-12-24T15:53:56.676288"
+      }
+    },
+    "total_questions": 0,
+    "total_tests": 0,
+    "created_at": "2025-12-24T00:02:21.095660",
+    "last_login": "2025-12-24T00:02:21.095660"
+  },
+  "backend@skillup.com": {
+    "email": "backend@skillup.com",
+    "specialty": "backend",
+    "position_title": "Backend Developer",
+    "base_skills": [
+      "PostgreSQL",
+      "Git",
+      "REST API",
+      "Redis"
+    ],
+    "personal_skills": [],
+    "progress": {
+      "PostgreSQL": {
+        "percent": 20,
+        "questions_asked": 4,
+        "tests_passed": 0,
+        "last_activity": "2025-12-24T15:46:29.490089"
+      }
+    },
+    "total_questions": 0,
+    "total_tests": 0,
+    "created_at": "2025-12-24T11:16:25.844903",
+    "last_login": "2025-12-24T11:16:25.844903"
+  },
+  "ml@skillup.com": {
+    "email": "ml@skillup.com",
+    "specialty": "ml",
+    "position_title": "ML Engineer",
+    "base_skills": [
+      "PyTorch",
+      "Huggingface",
+      "Model Training"
+    ],
+    "personal_skills": [],
+    "progress": {
+      "PyTorch": {
+        "percent": 10,
+        "questions_asked": 2,
+        "tests_passed": 0,
+        "last_activity": "2025-12-24T15:11:33.625392"
+      },
+      "Huggingface": {
+        "percent": 10,
+        "questions_asked": 2,
+        "tests_passed": 0,
+        "last_activity": "2025-12-24T12:10:47.608412"
+      }
+    },
+    "total_questions": 0,
+    "total_tests": 0,
+    "created_at": "2025-12-24T12:10:15.683557",
+    "last_login": "2025-12-24T12:10:15.683557"
+  },
+  "network@skillup.com": {
+    "email": "network@skillup.com",
+    "specialty": "network",
+    "position_title": "Network Engineer",
+    "base_skills": [
+      "VPC",
+      "VPN",
+      "Routing",
+      "Site-to-Site"
+    ],
+    "personal_skills": [],
+    "progress": {
+      "VPN": {
+        "percent": 5,
+        "questions_asked": 1,
+        "tests_passed": 0,
+        "last_activity": "2025-12-24T12:19:24.634314"
+      },
+      "VPC": {
+        "percent": 5,
+        "questions_asked": 1,
+        "tests_passed": 0,
+        "last_activity": "2025-12-24T15:49:28.064354"
+      }
+    },
+    "total_questions": 0,
+    "total_tests": 0,
+    "created_at": "2025-12-24T12:19:16.811081",
+    "last_login": "2025-12-24T12:19:16.811081"
+  },
+  "data@skillup.com": {
+    "email": "data@skillup.com",
+    "specialty": "data",
+    "position_title": "Data Engineer",
+    "base_skills": [
+      "Spark",
+      "Delta Lake",
+      "Trino",
+      "Airflow"
+    ],
+    "personal_skills": [],
+    "progress": {
+      "Delta Lake": {
+        "percent": 5,
+        "questions_asked": 1,
+        "tests_passed": 0,
+        "last_activity": "2025-12-24T15:10:48.724298"
+      }
+    },
+    "total_questions": 0,
+    "total_tests": 0,
+    "created_at": "2025-12-24T15:10:25.493401",
+    "last_login": "2025-12-24T15:10:25.493401"
+  }
+}

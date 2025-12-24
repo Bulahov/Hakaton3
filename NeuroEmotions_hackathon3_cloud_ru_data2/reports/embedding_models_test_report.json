@@ -1,0 +1,141 @@
+{
+  "phase": "Этап 2 - Тестирование моделей эмбеддингов",
+  "timestamp": "2025-12-16T21:56:52.022729",
+  "models_tested": [
+    "multilingual_miniLM",
+    "multilingual_e5_small",
+    "multilingual_e5_base",
+    "rubert_tiny",
+    "LaBSE",
+    "distiluse_multilingual"
+  ],
+  "test_results": {
+    "multilingual_miniLM": {
+      "model_key": "multilingual_miniLM",
+      "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "dimension": 384,
+      "load_time_seconds": 8.400147,
+      "encode_time_seconds": 25.47941,
+      "avg_encode_time": 0.12739705,
+      "quality_metrics": {
+        "mean_similarity": 0.37390971183776855,
+        "max_similarity": 0.9894694089889526,
+        "min_similarity": -0.04737626388669014,
+        "semantic_similarity": 0.3925289213657379
+      },
+      "status": "success",
+      "sample_embedding": [
+        -0.1846817284822464,
+        0.30240902304649353,
+        -0.06343144178390503
+      ]
+    },
+    "multilingual_e5_small": {
+      "model_key": "multilingual_e5_small",
+      "model_name": "intfloat/multilingual-e5-small",
+      "dimension": 384,
+      "load_time_seconds": 11.01136,
+      "encode_time_seconds": 74.594583,
+      "avg_encode_time": 0.372972915,
+      "quality_metrics": {
+        "mean_similarity": 0.8645331263542175,
+        "max_similarity": 0.9977962374687195,
+        "min_similarity": 0.7927457094192505,
+        "semantic_similarity": 0.8690778017044067
+      },
+      "status": "success",
+      "sample_embedding": [
+        0.02141847088932991,
+        -0.03832681477069855,
+        -0.04014341160655022
+      ]
+    },
+    "multilingual_e5_base": {
+      "model_key": "multilingual_e5_base",
+      "model_name": "intfloat/multilingual-e5-base",
+      "dimension": 768,
+      "load_time_seconds": 18.263193,
+      "encode_time_seconds": 202.758303,
+      "avg_encode_time": 1.013791515,
+      "quality_metrics": {
+        "mean_similarity": 0.8470572829246521,
+        "max_similarity": 0.995191752910614,
+        "min_similarity": 0.7700490951538086,
+        "semantic_similarity": 0.8503461480140686
+      },
+      "status": "success",
+      "sample_embedding": [
+        -0.004813692532479763,
+        0.03635431453585625,
+        0.0010891878046095371
+      ]
+    },
+    "rubert_tiny": {
+      "model_key": "rubert_tiny",
+      "model_name": "cointegrated/rubert-tiny2",
+      "dimension": 312,
+      "load_time_seconds": 2.941008,
+      "encode_time_seconds": 44.422052,
+      "avg_encode_time": 0.22211026,
+      "quality_metrics": {
+        "mean_similarity": 0.7946420311927795,
+        "max_similarity": 0.9956091642379761,
+        "min_similarity": 0.41564100980758667,
+        "semantic_similarity": 0.8202878832817078
+      },
+      "status": "success",
+      "sample_embedding": [
+        0.0011150058126077056,
+        0.013398228213191032,
+        0.01830238662660122
+      ]
+    },
+    "LaBSE": {
+      "model_key": "LaBSE",
+      "model_name": "sentence-transformers/LaBSE",
+      "dimension": 768,
+      "load_time_seconds": 23.70418,
+      "encode_time_seconds": 127.8964,
+      "avg_encode_time": 0.639482,
+      "quality_metrics": {
+        "mean_similarity": 0.590631902217865,
+        "max_similarity": 0.9986346960067749,
+        "min_similarity": 0.2771502733230591,
+        "semantic_similarity": 0.6152030229568481
+      },
+      "status": "success",
+      "sample_embedding": [
+        -0.012649541720747948,
+        -0.03443145006895065,
+        0.001300534000620246
+      ]
+    },
+    "distiluse_multilingual": {
+      "model_key": "distiluse_multilingual",
+      "model_name": "sentence-transformers/distiluse-base-multilingual-cased-v2",
+      "dimension": 512,
+      "load_time_seconds": 5.929837,
+      "encode_time_seconds": 38.368866,
+      "avg_encode_time": 0.19184432999999998,
+      "quality_metrics": {
+        "mean_similarity": 0.3446842133998871,
+        "max_similarity": 0.9972492456436157,
+        "min_similarity": -0.02658829651772976,
+        "semantic_similarity": 0.3853919208049774
+      },
+      "status": "success",
+      "sample_embedding": [
+        -0.010018986649811268,
+        -0.015570768155157566,
+        0.03025878220796585
+      ]
+    }
+  },
+  "selected_model": "multilingual_e5_small",
+  "selected_model_info": {
+    "name": "intfloat/multilingual-e5-small",
+    "description": "Мультиязычная модель E5, хорошее качество",
+    "dimension": 384,
+    "language": "multilingual"
+  }
+}
